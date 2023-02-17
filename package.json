@@ -2,7 +2,7 @@
   "name": "cat-calculator",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://ctompkinson.github.io/cat-calculator",
+  "homepage": "http://ctompkinson.github.io/cat-calculator",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
